@@ -1,9 +1,5 @@
 Projet Java avec les 3 patterns demandés (State / Strategy / Visitor) dans des packages séparés.
 
-src/
-├── StatePattern/      → Lecteur audio (play/pause/stop)
-├── StrategyPattern/   → Frais de livraison e-commerce
-└── VisitorPattern/
 
 
 # Lancer chaque pattern
